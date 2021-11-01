@@ -1,4 +1,4 @@
-"""
+ """
 什么值得买自动签到脚本
 使用github actions 定时执行
 @author : stark
